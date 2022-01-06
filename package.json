@@ -1,0 +1,17 @@
+{
+  "name": "fundamentosnode",
+  "version": "1.0.0",
+  "description": "es una simple tabla de multiplicar",
+  "main": "app.js",
+  "scripts": {
+    "base3": "node app --base3",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": ": AbisaiValdez",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "yargs": "^17.3.1"
+  }
+}
